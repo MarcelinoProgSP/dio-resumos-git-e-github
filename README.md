@@ -41,8 +41,12 @@ Repositório para armazenar resumos sobre o GIt e GitHUb do curso de Versionamen
 
 - Comandos Aprendidos.
 
+    git remote add origin url do seu github : conectase ao seu repositorio do github.
 
-## 🔍 Referências
+    git push -u origin main : transferi os arquivos do repositorio local para o remoto.
 
-- [Digital Inovation One]()
-   
+    git pull : trasnferi os arquivos do repositorio local para o remoto.
+
+# 🔍 Referências
+
+- [Digital Inovation One](https://www.dio.me)
