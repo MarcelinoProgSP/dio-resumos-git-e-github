@@ -37,6 +37,10 @@ Repositório para armazenar resumos sobre o GIt e GitHUb do curso de Versionamen
 
     git reset diretorio/nome do arquivo : exclui arquivo escolhido da area de preparação.
 
+⌨ ENVIANDO E BAIXANDO ALTERAÇOES COM O REPOSITORIO REMOTO
+
+- Comandos Aprendidos.
+
 
 ## 🔍 Referências
 
