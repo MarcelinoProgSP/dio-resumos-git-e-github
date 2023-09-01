@@ -43,9 +43,23 @@ Repositório para armazenar resumos sobre o GIt e GitHUb do curso de Versionamen
 
     git remote add origin url do seu github : conectase ao seu repositorio do github.
 
-    git push -u origin main : transferi os arquivos do repositorio local para o remoto.
+    git push -u origin main : transfere os arquivos do repositorio local para o remoto.
 
-    git pull : trasnferi os arquivos do repositorio local para o remoto.
+    git pull : trasnfere os arquivos do repositorio local para o remoto.
+
+⌨ TRABALHANDO COM BRANCHES - CRIANDO, MESCLANDO, DELETANDO E TRATANDO CONFLITOS
+
+ - Comandos Aprendidos.
+
+    git checkout nome da branch : volta para branch escolhida.
+
+    git branch -v : lista o ultimo commit de cada branch.  
+
+    git merge nome da branch que deseja mesclar : mescla as branchs 
+
+    git branch : lista as branchs.
+
+    git branch -d nome da branch : exclui branch desejada.   
 
 # 🔍 Referências
 
